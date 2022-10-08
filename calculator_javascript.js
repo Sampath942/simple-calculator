@@ -12,6 +12,8 @@ $(document).ready(function() {
     $('#cls').click(function () {
     $('#output').text("");
     })
+
+    
     
     $('#backspace').click(function () {
     let h=$('#output').text();
