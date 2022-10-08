@@ -1,0 +1,51 @@
+html{
+    width: 80%;
+    height:max-content;
+}
+body{
+background:black;
+}
+
+#heading1{
+background:#dce3e8;
+border:2px orange solid;
+margin:2px;
+padding:2px;
+}
+#output{
+background:#b6e884;
+height:160px;
+width:90%;
+border: 2px orange solid ;
+margin: 3px;
+padding: 6px;
+caret-color:red;
+}
+.numbers{
+color:white;
+width:70%;
+height:60px;
+border:2px solid orange;
+margin:3px;
+padding:5px;
+background:grey;
+}
+.symbols{
+color:#1307f5;
+background:#ddded1;
+width:80%;
+height:65px;
+margin:3px;
+padding:2px;
+border:2px solid orange;
+}
+.aside1{
+float:left;
+margin:1px;
+padding:1px;
+width:18%;
+background:black;
+}
+.clear{
+clear:both;
+}
